@@ -1,0 +1,7 @@
+echo ""Project lap trinh mang, chat TCP Socket"" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/letan1401/chatTCPSocket.git
+git push -u origin main
